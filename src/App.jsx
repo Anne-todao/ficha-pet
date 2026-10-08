@@ -6,7 +6,7 @@ function App() {
     <>
       <Petcard nome="Theo" especie="Pinscher"/>
       <Petcard nome="Jade" especie="Vira-Lata"/>
-      <Petcard nome="Pitt" especie="Pinscher"/>
+      <Petcard nome="Pity" especie="Pinscher"/>
     </>
   )
 }
